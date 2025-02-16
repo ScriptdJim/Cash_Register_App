@@ -1,0 +1,23 @@
+body {
+    padding: 20px;
+}
+
+#basketTable {
+    width: 100%;
+}
+
+#basketTable td {
+    vertical-align: middle;
+}
+
+footer {
+    margin-bottom: auto;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+footer p {
+    margin: 0;
+}
